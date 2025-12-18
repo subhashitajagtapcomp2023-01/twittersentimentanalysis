@@ -1,0 +1,52 @@
+tweet_id,tweet_text,sentiment,user_location,likes,retweets
+1,"I love this product!!! 😍 Totally worth the price http://buy.com",positive,India,120,25
+2,"Worst experience ever... very disappointed 😡",negative,USA,45,10
+3,"The service was okay, nothing special.",neutral,UK,,
+4,"@company your support team is amazing! Thanks 💯",positive,India,200,60
+5,"I waited for hours and got no response. Terrible service!",negative,,15,3
+6,"Just a normal day, nothing new.",neutral,USA,,
+7,"Absolutely fantastic performance by the team!",positive,UK,180,40
+8,"This app crashes again and again!!! @support",negative,India,30,
+9,"Not bad, but could be better.",neutral,,,
+10,"Loved the UI, very smooth and user friendly 😊",positive,USA,320,90
+11,"I regret buying this product. Waste of money.",negative,UK,55,12
+12,"It works as expected.",neutral,India,,
+13,"Best purchase I’ve made this year 🔥🔥",positive,USA,410,130
+14,"The update ruined everything. So many bugs.",negative,,20,5
+15,"Average experience overall.",neutral,UK,,
+16,"Customer service was polite and helpful.",positive,India,95,18
+17,"Money wasted. Will not recommend.",negative,USA,35,6
+18,"Okay product for the price.",neutral,,,
+19,"Amazing quality and fast delivery!!",positive,UK,210,50
+20,"Very slow response and poor management.",negative,India,10,2
+21,"I really enjoyed using this app 😍",positive,USA,250,70
+22,"The app is confusing and poorly designed.",negative,UK,40,8
+23,"Nothing great, nothing bad.",neutral,India,,
+24,"Highly recommend this service!",positive,USA,300,85
+25,"Support team never replies. Very bad.",negative,,18,4
+26,"The product arrived on time.",neutral,UK,,
+27,"Fantastic experience overall!",positive,India,160,33
+28,"Too many bugs after the update.",negative,USA,22,5
+29,"It’s fine for basic use.",neutral,,,
+30,"Great value for money!",positive,UK,190,44
+31,"The app freezes frequently.",negative,India,27,6
+32,"Nothing special about this product.",neutral,USA,,
+33,"I’m very happy with this purchase 😊",positive,India,280,76
+34,"Terrible design and slow performance.",negative,UK,38,9
+35,"Decent experience.",neutral,,,
+36,"Loved the features and simplicity!",positive,USA,260,65
+37,"Not worth the hype.",negative,India,19,4
+38,"The service is acceptable.",neutral,UK,,
+39,"Super fast delivery and great packaging!",positive,India,340,100
+40,"App keeps logging me out.",negative,USA,23,6
+41,"It does the job.",neutral,,,
+42,"Very satisfied with the results!",positive,UK,220,58
+43,"Worst app I’ve used this year.",negative,India,12,3
+44,"Average quality.",neutral,USA,,
+45,"Excellent customer support!",positive,India,175,41
+46,"Too many ads, very annoying.",negative,UK,28,7
+47,"Works fine for me.",neutral,,,
+48,"Highly impressed with the service 💯",positive,USA,310,92
+49,"Bad experience overall.",negative,India,16,4
+50,"Neither good nor bad.",neutral,UK,,
+60,"Great performance and smooth experience!",positive,India,290,83
